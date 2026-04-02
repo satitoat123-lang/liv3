@@ -1,0 +1,9 @@
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_setup_liv3.bat', LF will be replaced by CRLF the next time Git touches it
+[main 015a27d] Update project and push to liv3
+ 3 files changed, 7 insertions(+)
+ create mode 100644 git_log.txt
+ create mode 100644 git_setup_liv3.bat
+To https://github.com/satitoat123-lang/liv3.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
